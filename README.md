@@ -15,16 +15,6 @@ AntiSnoop-AI is a real-time privacy protection tool built with Python. It uses C
 Ensure you have Python installed, then install the required dependencies:
 pip install opencv-python mediapipe pyautogui plyer
 
-🔧 Installation & Usage
- * Clone the repository:
-   git clone https://github.com/MohanGowda/AntiSnoop-AI.git
-cd AntiSnoop-AI
-
- * Run the application:
-   python main.py
-
- * Configuration:
-   You can adjust the SNOOP_THRESHOLD (number of faces) and LOCK_TIMEOUT in the config.py file to suit your environment.
 📂 Project Structure
  * main.py: The entry point for the application and camera loop.
  * detector.py: Contains the logic for face detection and counting.
@@ -33,4 +23,4 @@ cd AntiSnoop-AI
 🤝 Contributing
 Contributions are welcome! If you're a fellow CSE student or developer, feel free to fork this repo and submit a pull request with new features (like gaze detection or GPU acceleration).
 Author
-Mohan Gowda B.Tech CSE Student | Cybersecurity Enthusiast
+Mohan Gowda B.Tech CSE Student | in science com[uter Enthusiast😊
